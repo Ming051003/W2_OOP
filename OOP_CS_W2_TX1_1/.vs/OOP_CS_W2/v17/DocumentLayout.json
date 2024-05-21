@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\FPT\\K\u1EF3 5\\PRN212\\New folder\\C#Ex\\W2_OOP\\OOP_CS_W2_TX1_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49BA2377-18DB-4F70-883D-B81001E6F761}|OOP_CS_W2.csproj|d:\\study\\fpt\\k\u1EF3 5\\prn212\\new folder\\c#ex\\w2_oop\\oop_cs_w2_tx1_1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BA2377-18DB-4F70-883D-B81001E6F761}|OOP_CS_W2.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49BA2377-18DB-4F70-883D-B81001E6F761}|OOP_CS_W2.csproj|d:\\study\\fpt\\k\u1EF3 5\\prn212\\new folder\\c#ex\\w2_oop\\oop_cs_w2_tx1_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49BA2377-18DB-4F70-883D-B81001E6F761}|OOP_CS_W2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\FPT\\K\u1EF3 5\\PRN212\\New folder\\C#Ex\\W2_OOP\\OOP_CS_W2_TX1_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Study\\FPT\\K\u1EF3 5\\PRN212\\New folder\\C#Ex\\W2_OOP\\OOP_CS_W2_TX1_1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowFkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:58:24.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Study\\FPT\\K\u1EF3 5\\PRN212\\New folder\\C#Ex\\W2_OOP\\OOP_CS_W2_TX1_1\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "D:\\Study\\FPT\\K\u1EF3 5\\PRN212\\New folder\\C#Ex\\W2_OOP\\OOP_CS_W2_TX1_1\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T03:58:23.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
